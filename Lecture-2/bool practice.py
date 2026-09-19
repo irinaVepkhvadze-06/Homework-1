@@ -1,4 +1,5 @@
 print(8 > 0)
 print(8 < 0)
 print(8 == 0)
-
+print(8 % 2 == 0)
+print(8 % 2 == 1)
