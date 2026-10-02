@@ -64,13 +64,13 @@
 # print(fruits)
 
 
-nums: list[int] = [1, 2, 10, 9, 5, 6, 7, 8]
-print(len(nums))
-print(max(nums))
-print(min(nums))
-print(sum(nums))
-print(nums.count(2))
-print(nums.index(2))
+# nums: list[int] = [1, 2, 10, 9, 5, 6, 7, 8]
+# print(len(nums))
+# print(max(nums))
+# print(min(nums))
+# print(sum(nums))
+# print(nums.count(2))
+# print(nums.index(2))
 
 import copy
 
@@ -81,3 +81,8 @@ import copy
 # print(id(a))
 # print(id(b))
 
+# scores  = [56, 67, 90, 38, 40, 79]
+
+# passed_scores = [i for i in scores if i >= 60]
+
+# print(passed_scores)
