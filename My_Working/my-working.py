@@ -69,5 +69,10 @@
 # age = int(input("what is your age? "))
 # print(type(age))
 
-age = int(input("what is your age? "))
-print(f"Next year you will be {age + 1} years old!")
+# age = int(input("what is your age? "))
+# print(f"Next year you will be {age + 1} years old!")
+
+# def calculate():
+#     print(5+4)
+# calculate()
+# calculate()
