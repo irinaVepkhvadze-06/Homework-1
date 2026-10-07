@@ -76,3 +76,8 @@
 #     print(5+4)
 # calculate()
 # calculate()
+
+
+# nums: tuple[int, int, int] = (1, 2, 3, 4)
+# print(nums)
+# print(type(nums))
