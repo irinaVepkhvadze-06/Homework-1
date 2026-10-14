@@ -81,3 +81,21 @@
 # nums: tuple[int, int, int] = (1, 2, 3, 4)
 # print(nums)
 # print(type(nums))
+
+# def check_role(user_role):
+#     if user_role == "admin":
+#         print("Access granted")
+#     else:
+#         print("Permission denied")
+
+# check_role("guest")
+# check_role("admin")
+
+# def check_roles(roles):
+
+#     for role in roles: 
+#         if role == "admin":
+#             print(role)
+
+# check_roles(["admin", "guest", "editor", "admin", "guest"])
+
